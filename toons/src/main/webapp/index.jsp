@@ -20,7 +20,7 @@
     <script src="./js/script.js"></script>
 
     <title>
-        toons1
+        toons
     </title>
 </head>
 
