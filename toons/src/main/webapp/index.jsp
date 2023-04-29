@@ -20,7 +20,7 @@
     <script src="./js/script.js"></script>
 
     <title>
-        toons
+        석진우의 홈페이지
     </title>
 </head>
 
@@ -191,8 +191,8 @@
                     
                     
                  <div class="conB_content">
-                        <h3>메이커교육</h3>
-                        <p>교구재 활용 가이드북</p>
+                        <h3>성장과정</h3>
+                        <p>나의 성장과정</p>
                     </div>
                     
                     
@@ -207,8 +207,8 @@
                         <i class="fas fa-cogs icon"></i>
                     </div>
                     <div class="conB_content">
-                        <h3>미래교육(SW/WEB/3DPRINT)</h3>
-                        <p>진로 수업시, 교사와 학생이 함께하는<br> 교육과 게임이 가득한 곳!</p>
+                        <h3>졸업 후 진로</h3>
+                        <p>개발자로 취업하는 방법에 대해서 알아보자!</p>
                     </div>
                 </div>
                 
@@ -218,8 +218,8 @@
                         <i class="fas fa-plane icon"></i>
                     </div>
                     <div class="conB_content">
-                        <h3>창업캠프</h3>
-                        <p>창업에 대한 꿈과 희망이 가득한 곳!</p>
+                        <h3>취득한 자격증</h3>
+                        <p>자격증의 종류는?</p>
                     </div>
                 </div>
                 
@@ -232,8 +232,8 @@
                         <i class="fas fa-plane icon"></i>
                     </div>
                     <div class="conB_content">
-                        <h3>진로직업체험(캠프)</h3>
-                        <p>초, 중, 고 진로직업체험(캠프)</p>
+                        <h3>최종학력</h3>
+                        <p>대졸</p>
                     </div>
                 </div>
                 
@@ -247,10 +247,10 @@
     <footer>
         <div class="footer_container">
             <div class="footB">
-                  충청북도 충주시 성서3길 16, 명동타운 302호
+                 충주시 충일아파트
             </div>
             <div class="footB">
-                Copyright © Toons All Rights Reserved.
+                Copyright © Seok Jin Woo All Rights Reserved.
             </div>
         </div>
     </footer>
